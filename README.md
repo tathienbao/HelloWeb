@@ -796,10 +796,13 @@ mvn clean install
 - Hibernate: https://hibernate.org/orm/documentation/
 - SQL Server Docker: https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker
 
+**Learning Guides:**
+- 📚 **[Creating JPA Entities Guide](docs/LEARNING_JPA.md)** - Step-by-step guide for manually creating JPA entities from database tables
+
 **Learning Path:**
 1. ✅ Setup complete (you are here)
-2. Learn JPA basics: Entities, EntityManager, JPQL
-3. Learn Servlet basics: Request/Response, Sessions
+2. 📖 **[Learn JPA basics](docs/LEARNING_JPA.md)** - Entities, EntityManager, JPQL
+3. Learn Servlet basics - Request/Response, Sessions
 4. Integrate JPA with Servlets
 5. Build a complete CRUD web application
 
